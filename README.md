@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Mohamed Sameh Banner"/>
+  <img src="banner.png" width="100%" alt="Mohamed Sameh Banner"/>
 </p>
 
 <h1 align="center">
@@ -85,3 +85,30 @@ Machine Learning • Deep Learning • OpenCV • EasyOCR • spaCy • scikit-l
 </p>
 
 Power BI • Tableau • Kafka
+
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=medo-salah&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medo-salah&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=medo-salah&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=medo-salah&theme=github-dark&hide_border=true"/>
+
+</p>
