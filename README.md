@@ -144,7 +144,7 @@ Power BI • Tableau • Kafka • Git • Linux
 
 Enterprise AI analytics platform built with React, TypeScript, Express, PostgreSQL, BullMQ, and Redis.
 
-🔗 https://github.com/medo-salah
+🔗 https://github.com/medo-salah/AI-Insight-Visualizer
 
 ---
 
@@ -160,7 +160,7 @@ AI-powered budgeting platform featuring analytics, OCR, personalized recommendat
 
 OCR and document intelligence system built using FastAPI, EasyOCR, Tesseract, and spaCy.
 
-🔗 https://github.com/medo-salah
+🔗 https://github.com/medo-salah/passport_ocr
 
 ---
 
@@ -168,7 +168,7 @@ OCR and document intelligence system built using FastAPI, EasyOCR, Tesseract, an
 
 Deep learning application using Transformers, LSTM, PyTorch, and Optuna for financial prediction.
 
-🔗 https://github.com/medo-salah
+🔗 https://github.com/medo-salah/ai-candlestick-trader
 
 ---
 
