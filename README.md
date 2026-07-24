@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Mohamed Sameh Banner"/>
+  <img src="banner.png" width="100%" alt="Mohamed Sameh Banner"/>
 </p>
 
 <h1 align="center">
