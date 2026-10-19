@@ -179,7 +179,6 @@ Deep learning application using Transformers, LSTM, PyTorch, and Optuna for fina
 | Understanding Data Science | DataCamp |
 | Software Engineering Level 1 | Orange Digital Center |
 | AI Courses | DeepLearning.AI |
-| Data Science Internship | Konecta |
 
 ---
 
